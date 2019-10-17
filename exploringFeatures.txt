@@ -1,0 +1,37 @@
+Scoring function features:
+
+Numerical
+
+SalePrice
+
+OverallQual
+GrLivArea
+GarageCars
+GarageArea
+TotalBsmtSF
+1stFlrSF
+
+Categorical
+
+MSSubClass
+2-story or newer
+Rest 0
+
+
+Very important
+Street
+	Pave
+	Grvl
+
+Neighborhood
+
+YearBuilt
+YearRemodAdd
+
+ExterCond
+
+PoolArea
+
+
+
+"NoRidge", "NridgHt", "StoneBr", "Timber", "Veenker", "Somerst", "ClearCr", "Crawfor", "CollgCr", "Blmngtn", "Gilbert", "NWAmes", "SawyerW", "Mitchel", "NAmes", "NPkVill", "SWISU", "Blueste", "Sawyer", "OldTown", "Edwards", "BrkSide", "BrDale", "IDOTRR", "MeadowV"
