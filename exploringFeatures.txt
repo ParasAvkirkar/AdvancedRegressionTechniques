@@ -35,3 +35,8 @@ PoolArea
 
 
 "NoRidge", "NridgHt", "StoneBr", "Timber", "Veenker", "Somerst", "ClearCr", "Crawfor", "CollgCr", "Blmngtn", "Gilbert", "NWAmes", "SawyerW", "Mitchel", "NAmes", "NPkVill", "SWISU", "Blueste", "Sawyer", "OldTown", "Edwards", "BrkSide", "BrDale", "IDOTRR", "MeadowV"
+
+min = 434
+max = 11380
+
+,"OverallQual","GrLivArea","GarageCars","GarageArea","TotalBsmtSF","1stFlrSF"
