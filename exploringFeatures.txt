@@ -40,3 +40,4 @@ min = 434
 max = 11380
 
 ,"OverallQual","GrLivArea","GarageCars","GarageArea","TotalBsmtSF","1stFlrSF"
+
