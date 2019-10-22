@@ -10,6 +10,8 @@ data/*
 
 # Data files
 *.csv
+*.zip
+cse519_hw3_avkirkar_paras_112685014/
 
 
 # Distribution / packaging
